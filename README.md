@@ -16,8 +16,8 @@ This project analyzes over 1 million records of 311 service requests from New Yo
 - Relationship between location type and complaint type
 
 ## 📁 Files
-- `notebook.ipynb` – Full analysis with charts and comments
-- `sample_data.zip` – Sample of the dataset used
+- `Dataset_NYC_311_Calls.ipynb` – Full analysis with charts and comments
+- `Customer Service_Requests_from_2010_to_Present.zip` – Sample of the dataset used
 
 ## 📎 Dataset Source
 NYC Open Data – 311 Service Requests from 2010 to Present
